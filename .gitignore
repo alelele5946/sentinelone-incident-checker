@@ -1,0 +1,15 @@
+# Carpetas del entorno virtual
+venv/
+__pycache__/
+
+# Archivos de configuración con credenciales
+.env
+config.py
+
+# Archivos de logs y caché
+*.log
+*.sqlite
+*.db
+
+# Configuración de VS Code
+.vscode/
